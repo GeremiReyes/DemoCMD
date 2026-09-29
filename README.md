@@ -24,3 +24,4 @@ src/
 ```
 
 Cada feature expone su API pública en `index.js`; importa desde ahí y no desde sus archivos internos.
+# DemoCMD
